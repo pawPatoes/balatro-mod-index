@@ -10,10 +10,10 @@ Anyway this mod adds:
 This mod was created for the purpose of being FUNNY!!!!!!!1111111111
               
 # Things stol- I mean borrowed from other things
-* **Cryptid**: `cry.manipulate` and exotic joker sprites                          
-* [**Dj Soup And Salad**](https://twitch.tv/djsoupandsalad): His face (with permission)          
-* [**Galacta Gamer**](https://twitch.tv/galactagamer): His face (with permission)               
-* **Doors (by Lsplash)**: Glitch sound effects
+* [**Cryptid**](https://github.com/SpectralPack/Cryptid): `cry.manipulate` and exotic joker sprites
+* [**Dj Soup And Salad**](https://twitch.tv/djsoupandsalad): His face (with permission)
+* [**Galacta Gamer**](https://twitch.tv/galactagamer): His face (with permission)
+* [**Doors (by Lsplash)**](https://www.roblox.com/games/6516141723/DOORS): Glitch sound effects and seek eye (technically taken from [**Twitch**](https://twitch.tv]))
          
 **Yeah thats it (probably missed smth idk)**
 
@@ -26,3 +26,4 @@ This mod was created for the purpose of being FUNNY!!!!!!!1111111111
 
 # ENJOY!!!!!!!!!!!!!1
 <img src="https://file.garden/ZtBrW_PK_QLwMwt1/thumbnail.jpg">
+This is the goofiest thumbnail ever.
